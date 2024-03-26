@@ -46,6 +46,13 @@ export default function App() {
        descricao = 'Descansar né, que o homem não é de ferro'
       ></Card>
 
+      <Card 
+            titulo = 'Dormir'
+            porcentagem = '200%' 
+            imagem = 'https://img.freepik.com/vetores-gratis/mulher-que-sofre-de-ilustracao-vetorial-plana-de-insonia-pessoa-feminina-deprimida-e-triste-deitada-na-cama-com-os-olhos-abertos-e-incapaz-de-dormir-a-noite-disturbio-do-sono-fadiga-conceito-sem-dormir_74855-25408.jpg'
+            descricao = 'Descansar né, que o homem não é de ferro'
+            ></Card>
+
     </View>
   );
 }
